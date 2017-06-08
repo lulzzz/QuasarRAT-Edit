@@ -108,3 +108,6 @@ I really appreciate all kinds of feedback and contributions. Thanks for using an
 I've added a few features that i missed. Have Fun!
 + DDoS (TCP, UDP, SYN, NTP, HTTP GET, HTTP POST)
 + OnJoin Commands (Download & Execute, Password Recovery, Visit Website)
+Pictures
+DDoS
+[img]http://i.imgur.com/S01jQ5r.png[/img]
