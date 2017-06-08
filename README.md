@@ -1,4 +1,4 @@
-QuasarRAT-Edit
+QuasarRAT-Edit USE build-debug.bat /build-release.bat to use the features 
 =========
 [![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasarrat) [![Join the chat at https://gitter.im/quasar/QuasarRAT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quasar/QuasarRAT)
 
