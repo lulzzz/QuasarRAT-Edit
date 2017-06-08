@@ -113,8 +113,8 @@ DDoS
 
 ![Screenshot](http://i.imgur.com/S01jQ5r.png)
 
-![Screenshot](http://i.imgur.com/J9XuR.png)
+![Screenshot](http://i.imgur.com/dbzKZrc.png)
 
 OnJoin
 
-![Screenshot](http://i.imgur.com/J9XuR.png)
+![Screenshot](http://i.imgur.com/Y9F3Anr.png)
