@@ -110,4 +110,4 @@ I've added a few features that i missed. Have Fun!
 + OnJoin Commands (Download & Execute, Password Recovery, Visit Website)
 Pictures
 DDoS
-![Screenshot](http://i.imgur.com/S01jQ5r.png
+![Screenshot](http://i.imgur.com/S01jQ5r.png)
